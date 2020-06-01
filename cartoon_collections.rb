@@ -1,6 +1,6 @@
 def roll_call_dwarves(array)
  i = 0
- 
+ while index < array.length
 end
  
 end
