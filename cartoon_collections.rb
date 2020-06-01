@@ -18,7 +18,7 @@ def summon_captain_planet(array)
 end
 
 def long_planeteer_calls(array)
-  if array.length > 5
+  if array.length > 3
     puts true
   else
     false
