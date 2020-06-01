@@ -19,9 +19,9 @@ end
 
 def long_planeteer_calls(array)
   if array.length > 4
-    puts true
+    puts false
   else
-    false
+    true
 end
 end
 
